@@ -1,0 +1,24 @@
+{
+  "name": "stream-contains",
+  "version": "0.0.1",
+  "description": "in or notin for stream contains,collection toolkit's part.",
+  "main": "inOrNot.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "in",
+    "notIn",
+    "collection",
+    "stream"
+  ],
+  "author": "bona shen",
+  "license": "ISC",
+  "dependencies": {
+    "through": "^2.3.7"
+  },
+  "devDependencies": {}
+}
